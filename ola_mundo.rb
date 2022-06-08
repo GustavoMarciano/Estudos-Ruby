@@ -2,4 +2,3 @@
 puts "Hello World"
 print "Olá "
 print "mundo"
-system("clear")
