@@ -49,5 +49,4 @@ puts "Qual a sua cep?"
 cep = gets.chomp
 
 puts "Olá #{nome} voce mora em #{cidade} no estado #{estado} rua #{rua} , #{numero} e cep: #{cep}?"
-
-puts "hi"
+puts "hi wsl"
